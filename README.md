@@ -18,7 +18,7 @@ An Excel-driven end-to-end analysis of IT support ticket data from 2016 to 2020.
 **🎯 Goal:**  
 Identify patterns in resolution time, agent performance, and satisfaction levels to improve IT support operations.
 
-![Excel Dashboard Snapshot](./Dashboard.png.png)  
+![Excel Dashboard Snapshot](./dashboard.png.png)  
 > 🖼️ *Excel Dashboard Preview*
 
 ---
