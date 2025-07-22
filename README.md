@@ -76,7 +76,7 @@ Evaluate IT support trends and identify areas for improvement.
 
 Despite rising ticket volume, support quality remained stable.  
 The analysis led to clear, data-backed **hiring, training, and optimization recommendations**.
-
+🧠 Demonstrated practical Excel skills, domain understanding, and storytelling — all through the lens of IT analytics.
 ---
 
 ## 🙋‍♂️ About Me
